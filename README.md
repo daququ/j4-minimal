@@ -1,3 +1,5 @@
+## TODO add validate
+
 A minimal example of a REST API built with with Jersey, Jackson and Guice running on embedded Jetty
 ---------------------------------------------------------------------------------------------------
 
